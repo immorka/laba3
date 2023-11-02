@@ -1,0 +1,13 @@
+/* print.css */
+header, nav {
+    display: none;
+}
+
+main, aside {
+    max-width: none;
+}
+
+footer {
+    background-color: transparent;
+    color: #000;
+}
